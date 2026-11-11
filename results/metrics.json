@@ -1,0 +1,11 @@
+{
+  "n_tickets": 3000,
+  "n_train": 2400,
+  "n_test": 600,
+  "breach_rate": 0.306,
+  "accuracy": 0.6583,
+  "precision": 0.4578,
+  "recall": 0.6196,
+  "f1": 0.5266,
+  "roc_auc": 0.6863
+}

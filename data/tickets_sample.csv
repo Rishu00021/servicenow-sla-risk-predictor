@@ -1,0 +1,101 @@
+ticket_id,short_description,category,subcategory,priority,channel,assignment_group,opened_at,resolved_at,resolution_hours,queue_hours,sla_breach
+INC00001,Laptop battery drains in under an hour,Incident,Hardware,P3,Email,Hardware,2026-03-23 14:26:00,2026-03-26 02:20:00,59.9,0.9,1
+INC00002,Recurring SAP posting errors at month end,Problem,SAP,P3,Portal,SAP Support,2026-01-12 04:22:00,2026-01-14 09:46:00,53.4,0.6,1
+INC00003,Repeated database deadlocks during peak hours - user unable to work,Problem,Database,P3,Chat,Database,2026-03-22 14:14:00,2026-03-23 10:08:00,19.9,3.6,0
+INC00004,"Password reset needed for SAP account - urgent, blocking daily work",Request,Access,P3,Email,Service Desk,2026-03-20 17:26:00,2026-03-21 22:56:00,29.5,18.9,1
+INC00005,Laptop screen flickering after update - reported twice this week,Incident,Hardware,P4,Phone,Hardware,2026-10-22 04:47:00,2026-10-22 13:47:00,9.0,0.3,0
+INC00006,Application crashing on startup after patch,Incident,Software,P3,Phone,Service Desk,2026-07-30 12:58:00,2026-08-01 21:04:00,56.1,1.3,1
+INC00007,SAP material master data needs correction,Request,SAP,P4,Portal,SAP Support,2026-05-19 17:35:00,2026-05-20 18:53:00,25.3,2.0,0
+INC00008,Disk space almost full on database server - reported twice this week,Incident,Database,P2,Phone,Database,2026-09-13 20:35:00,2026-09-14 01:23:00,4.8,16.6,0
+INC00009,Password reset needed for SAP account - please help asap,Request,Access,P3,Email,Service Desk,2026-06-18 15:17:00,2026-06-19 06:05:00,14.8,2.9,0
+INC00010,Repeated database deadlocks during peak hours - user unable to work,Problem,Database,P3,Portal,Database,2026-03-25 17:27:00,2026-03-26 02:51:00,9.4,10.3,0
+INC00011,Unable to access shared drive folder - user unable to work,Incident,Network,P4,Phone,Network,2026-03-19 17:57:00,2026-03-22 08:33:00,62.6,6.4,0
+INC00012,Security alert: suspicious login attempts detected,Incident,Security,P2,Email,Security,2026-09-29 13:48:00,2026-09-30 07:18:00,17.5,4.9,1
+INC00013,"Mobile app crashing for many users after release - urgent, blocking daily work",Problem,Software,P3,Email,Service Desk,2026-07-05 20:18:00,2026-07-06 16:00:00,19.7,4.1,0
+INC00014,Keyboard keys not working on laptop,Incident,Hardware,P4,Chat,Hardware,2026-08-06 11:30:00,2026-08-09 07:36:00,68.1,0.4,0
+INC00015,Repeated printer failures across the office - affecting multiple users,Problem,Hardware,P4,Portal,Hardware,2026-09-06 00:24:00,2026-09-07 13:24:00,37.0,7.7,0
+INC00016,SAP invoice verification blocked by price variance - reported twice this week,Incident,SAP,P2,Chat,SAP Support,2026-02-27 22:00:00,2026-02-28 04:42:00,6.7,3.6,0
+INC00017,SAP login failing with authorisation error - please help asap,Incident,SAP,P4,Portal,SAP Support,2026-08-16 23:57:00,2026-08-18 17:45:00,41.8,2.1,0
+INC00018,Keyboard keys not working on laptop - reported twice this week,Incident,Hardware,P4,Portal,Hardware,2026-08-07 09:39:00,2026-08-15 23:39:00,206.0,2.4,1
+INC00019,SAP vendor master update request - user unable to work,Request,SAP,P1,Portal,SAP Support,2026-02-01 12:27:00,2026-02-01 16:09:00,3.7,7.9,0
+INC00020,Recurring SAP posting errors at month end,Problem,SAP,P2,Chat,SAP Support,2026-07-20 12:15:00,2026-07-20 17:03:00,4.8,1.1,0
+INC00021,Request access to SAP MM purchase order module - please help asap,Request,Access,P4,Email,SAP Support,2026-09-17 21:50:00,2026-09-19 18:26:00,44.6,2.2,0
+INC00022,Urgent: email server outage affecting all users - please help asap,Incident,Email,P3,Email,Service Desk,2026-03-24 03:26:00,2026-03-26 06:32:00,51.1,0.4,1
+INC00023,Mobile app crashing for many users after release - user unable to work,Problem,Software,P1,Portal,Service Desk,2026-03-25 16:31:00,2026-03-25 23:19:00,6.8,0.4,1
+INC00024,Recurring VPN drops every morning for whole team - user unable to work,Problem,Network,P2,Chat,Network,2026-03-20 08:01:00,2026-03-20 14:49:00,6.8,4.6,0
+INC00025,Intermittent login failures for remote users - happening since yesterday,Problem,Access,P2,Chat,Service Desk,2026-10-22 08:00:00,2026-10-23 02:42:00,18.7,3.1,1
+INC00026,"Production database backup failed overnight - urgent, blocking daily work",Incident,Database,P3,Portal,Database,2026-09-03 11:56:00,2026-09-03 13:50:00,1.9,6.4,0
+INC00027,Database connection timeout in reporting tool,Incident,Database,P2,Email,Database,2026-07-15 14:08:00,2026-07-16 02:50:00,12.7,3.6,1
+INC00028,SAP MM goods receipt posting error,Incident,SAP,P3,Portal,SAP Support,2026-01-19 18:02:00,2026-01-19 18:50:00,0.8,6.3,0
+INC00029,Outlook not syncing new emails - user unable to work,Incident,Email,P2,Chat,Service Desk,2026-06-25 14:10:00,2026-06-25 15:04:00,0.9,1.4,0
+INC00030,Application crashing on startup after patch,Incident,Software,P4,Phone,Service Desk,2026-10-13 19:18:00,2026-10-15 19:06:00,47.8,9.2,0
+INC00031,Repeated database deadlocks during peak hours - happening since yesterday,Problem,Database,P2,Phone,Database,2026-03-21 14:17:00,2026-03-21 18:35:00,4.3,20.8,0
+INC00032,Database query running very slow in production,Incident,Database,P1,Chat,Database,2026-07-03 09:58:00,2026-07-03 14:34:00,4.6,15.1,1
+INC00033,Recurring VPN drops every morning for whole team,Problem,Network,P4,Portal,Network,2026-08-05 23:29:00,2026-08-07 03:23:00,27.9,0.4,0
+INC00034,Intermittent login failures for remote users - user unable to work,Problem,Access,P3,Portal,Service Desk,2026-08-14 20:14:00,2026-08-15 09:20:00,13.1,0.5,0
+INC00035,Database query running very slow in production - affecting multiple users,Incident,Database,P2,Phone,Database,2026-03-29 05:40:00,2026-03-30 00:10:00,18.5,1.9,1
+INC00036,Security alert: suspicious login attempts detected - reported twice this week,Incident,Security,P4,Portal,Security,2026-01-04 17:23:00,2026-01-07 13:29:00,68.1,3.7,0
+INC00037,Unable to access shared drive folder - please help asap,Incident,Network,P2,Phone,Network,2026-02-18 13:25:00,2026-02-18 20:07:00,6.7,16.2,0
+INC00038,Disk space almost full on database server - affecting multiple users,Incident,Database,P2,Phone,Database,2026-08-12 00:55:00,2026-08-12 05:13:00,4.3,24.8,0
+INC00039,Repeated database deadlocks during peak hours - affecting multiple users,Problem,Database,P4,Portal,Database,2026-02-19 05:27:00,2026-02-21 08:21:00,50.9,1.8,0
+INC00040,Keyboard keys not working on laptop - affecting multiple users,Incident,Hardware,P3,Email,Hardware,2026-09-19 14:35:00,2026-09-20 10:05:00,19.5,2.5,0
+INC00041,Recurring VPN drops every morning for whole team - happening since yesterday,Problem,Network,P2,Portal,Network,2026-02-03 22:30:00,2026-02-03 23:18:00,0.8,6.0,0
+INC00042,Database connection timeout in reporting tool,Incident,Database,P3,Phone,Database,2026-03-01 03:55:00,2026-03-01 13:55:00,10.0,8.1,0
+INC00043,VPN not connecting from home network,Incident,Network,P2,Email,Network,2026-07-18 23:26:00,2026-07-19 16:26:00,17.0,0.2,1
+INC00044,"Urgent: production server down, users cannot log in",Incident,Software,P1,Phone,Service Desk,2026-10-18 04:37:00,2026-10-18 11:37:00,7.0,21.5,1
+INC00045,SAP MM goods receipt posting error,Incident,SAP,P3,Chat,SAP Support,2026-08-15 07:25:00,2026-08-15 13:13:00,5.8,8.3,0
+INC00046,Password reset needed for SAP account,Request,Access,P4,Portal,Service Desk,2026-03-07 15:16:00,2026-03-10 06:58:00,63.7,8.0,0
+INC00047,SAP MM goods receipt posting error - affecting multiple users,Incident,SAP,P2,Portal,SAP Support,2026-05-20 14:42:00,2026-05-20 16:48:00,2.1,12.3,0
+INC00048,Security alert: suspicious login attempts detected - reported twice this week,Incident,Security,P3,Email,Security,2026-03-23 11:56:00,2026-03-25 04:32:00,40.6,0.1,1
+INC00049,Unable to access shared drive folder - affecting multiple users,Incident,Network,P3,Chat,Network,2026-09-05 17:43:00,2026-09-06 15:07:00,21.4,23.8,0
+INC00050,Laptop battery drains in under an hour - affecting multiple users,Incident,Hardware,P2,Phone,Hardware,2026-01-15 06:17:00,2026-01-15 11:59:00,5.7,0.7,0
+INC00051,"Database query running very slow in production - urgent, blocking daily work",Incident,Database,P3,Portal,Database,2026-05-21 13:53:00,2026-05-22 17:11:00,27.3,13.8,1
+INC00052,"Urgent: production server down, users cannot log in",Incident,Software,P3,Email,Service Desk,2026-05-13 22:36:00,2026-05-14 19:36:00,21.0,3.4,0
+INC00053,Request VPN access for new contractor - reported twice this week,Request,Access,P3,Portal,Security,2026-09-20 09:18:00,2026-09-21 00:42:00,15.4,13.8,0
+INC00054,"Database query running very slow in production - urgent, blocking daily work",Incident,Database,P3,Email,Database,2026-03-12 04:19:00,2026-03-12 19:55:00,15.6,3.3,0
+INC00055,Password reset for email account - affecting multiple users,Request,Access,P3,Portal,Service Desk,2026-04-21 23:17:00,2026-04-22 12:41:00,13.4,2.0,0
+INC00056,Database query running very slow in production - happening since yesterday,Incident,Database,P3,Email,Database,2026-07-06 10:42:00,2026-07-07 05:00:00,18.3,3.8,0
+INC00057,Password reset needed for SAP account,Request,Access,P3,Phone,Service Desk,2026-02-04 08:01:00,2026-02-04 23:31:00,15.5,10.2,0
+INC00058,SAP MM purchase order stuck in approval - user unable to work,Incident,SAP,P2,Portal,SAP Support,2026-03-31 11:28:00,2026-04-01 07:52:00,20.4,24.8,1
+INC00059,"Security alert: suspicious login attempts detected - urgent, blocking daily work",Incident,Security,P4,Email,Security,2026-09-19 21:00:00,2026-09-20 14:06:00,17.1,7.2,0
+INC00060,VPN not connecting from home network,Incident,Network,P4,Email,Network,2026-03-06 08:55:00,2026-03-07 16:55:00,32.0,9.8,0
+INC00061,Repeated database deadlocks during peak hours - user unable to work,Problem,Database,P4,Portal,Database,2026-06-16 12:37:00,2026-06-18 01:13:00,36.6,0.9,0
+INC00062,Repeated database deadlocks during peak hours - reported twice this week,Problem,Database,P4,Chat,Database,2026-08-12 09:26:00,2026-08-13 14:56:00,29.5,10.1,0
+INC00063,Repeated database deadlocks during peak hours - happening since yesterday,Problem,Database,P4,Chat,Database,2026-06-14 04:46:00,2026-06-16 00:34:00,43.8,1.8,0
+INC00064,Repeated printer failures across the office - happening since yesterday,Problem,Hardware,P3,Phone,Hardware,2026-06-10 11:39:00,2026-06-10 18:15:00,6.6,0.5,0
+INC00065,Database query running very slow in production - please help asap,Incident,Database,P2,Email,Database,2026-03-26 12:47:00,2026-03-27 00:29:00,11.7,2.9,1
+INC00066,"Teams call audio breaking up during meetings - urgent, blocking daily work",Incident,Software,P3,Chat,Service Desk,2026-06-01 17:05:00,2026-06-02 02:17:00,9.2,0.4,0
+INC00067,Mobile app crashing for many users after release,Problem,Software,P4,Chat,Service Desk,2026-06-23 23:54:00,2026-06-26 03:36:00,51.7,0.0,0
+INC00068,Teams call audio breaking up during meetings - please help asap,Incident,Software,P3,Email,Service Desk,2026-06-28 02:12:00,2026-06-28 03:18:00,1.1,1.5,0
+INC00069,"Database connection timeout in reporting tool - urgent, blocking daily work",Incident,Database,P3,Chat,Database,2026-02-16 19:13:00,2026-02-17 15:55:00,20.7,23.7,0
+INC00070,Mobile app crashing for many users after release,Problem,Software,P2,Chat,Service Desk,2026-02-19 17:45:00,2026-02-20 06:15:00,12.5,12.1,1
+INC00071,Database query running very slow in production - user unable to work,Incident,Database,P3,Phone,Database,2026-10-05 11:43:00,2026-10-08 09:25:00,69.7,12.7,1
+INC00072,Teams call audio breaking up during meetings - affecting multiple users,Incident,Software,P4,Chat,Service Desk,2026-01-08 09:22:00,2026-01-17 02:34:00,209.2,8.3,1
+INC00073,SAP MM purchase order stuck in approval,Incident,SAP,P4,Portal,SAP Support,2026-10-02 22:35:00,2026-10-10 23:59:00,193.4,0.2,1
+INC00074,Request VPN access for new contractor,Request,Access,P2,Chat,Security,2026-09-02 01:49:00,2026-09-02 05:37:00,3.8,0.7,0
+INC00075,SAP login failing with authorisation error - reported twice this week,Incident,SAP,P2,Portal,SAP Support,2026-10-11 12:26:00,2026-10-11 13:44:00,1.3,10.3,0
+INC00076,VPN keeps disconnecting every few minutes - affecting multiple users,Incident,Network,P3,Chat,Network,2026-05-25 18:01:00,2026-05-27 22:55:00,52.9,17.0,1
+INC00077,SAP MM goods receipt posting error,Incident,SAP,P3,Phone,SAP Support,2026-09-07 11:08:00,2026-09-10 10:20:00,71.2,5.5,1
+INC00078,Internet is down on the 3rd floor - reported twice this week,Incident,Network,P3,Phone,Network,2026-01-26 10:33:00,2026-01-27 05:57:00,19.4,4.2,0
+INC00079,Antivirus blocking legitimate business application,Incident,Security,P3,Phone,Security,2026-08-20 17:49:00,2026-08-20 21:43:00,3.9,13.3,0
+INC00080,Password reset for email account - please help asap,Request,Access,P4,Phone,Service Desk,2026-08-13 13:55:00,2026-08-14 23:13:00,33.3,9.9,0
+INC00081,"Urgent: production server down, users cannot log in - affecting multiple users",Incident,Software,P3,Email,Service Desk,2026-02-01 21:16:00,2026-02-02 14:28:00,17.2,2.0,0
+INC00082,"Intermittent login failures for remote users - urgent, blocking daily work",Problem,Access,P3,Chat,Service Desk,2026-04-29 16:01:00,2026-05-02 06:31:00,62.5,1.2,1
+INC00083,Database connection timeout in reporting tool - affecting multiple users,Incident,Database,P4,Phone,Database,2026-07-22 16:34:00,2026-07-22 22:52:00,6.3,0.1,0
+INC00084,Teams call audio breaking up during meetings - happening since yesterday,Incident,Software,P3,Email,Service Desk,2026-09-09 18:38:00,2026-09-10 05:08:00,10.5,3.9,0
+INC00085,VPN keeps disconnecting every few minutes,Incident,Network,P3,Chat,Network,2026-09-10 04:55:00,2026-09-10 13:37:00,8.7,1.7,0
+INC00086,Repeated database deadlocks during peak hours - please help asap,Problem,Database,P3,Phone,Database,2026-05-09 10:10:00,2026-05-10 23:10:00,37.0,7.3,1
+INC00087,Laptop battery drains in under an hour - user unable to work,Incident,Hardware,P3,Email,Hardware,2026-03-12 01:42:00,2026-03-12 18:24:00,16.7,1.5,0
+INC00088,Repeated printer failures across the office - affecting multiple users,Problem,Hardware,P4,Email,Hardware,2026-04-19 04:38:00,2026-04-19 06:08:00,1.5,1.5,0
+INC00089,Recurring SAP posting errors at month end,Problem,SAP,P2,Portal,SAP Support,2026-07-21 19:19:00,2026-07-22 00:19:00,5.0,2.1,0
+INC00090,Antivirus blocking legitimate business application,Incident,Security,P4,Phone,Security,2026-06-21 05:39:00,2026-06-23 23:45:00,66.1,3.9,0
+INC00091,SAP login failing with authorisation error - happening since yesterday,Incident,SAP,P2,Portal,SAP Support,2026-05-27 05:26:00,2026-05-27 10:50:00,5.4,4.1,0
+INC00092,Keyboard keys not working on laptop,Incident,Hardware,P4,Phone,Hardware,2026-02-01 08:19:00,2026-02-08 23:13:00,182.9,30.6,1
+INC00093,Request new monitor for workstation - user unable to work,Request,Hardware,P4,Chat,Hardware,2026-06-14 08:39:00,2026-06-16 01:09:00,40.5,14.3,0
+INC00094,"Urgent: production server down, users cannot log in - affecting multiple users",Incident,Software,P3,Portal,Service Desk,2026-08-11 07:02:00,2026-08-13 19:56:00,60.9,19.3,1
+INC00095,Request access to SAP MM purchase order module - affecting multiple users,Request,Access,P3,Email,SAP Support,2026-03-29 15:58:00,2026-03-30 17:16:00,25.3,1.1,1
+INC00096,Urgent: email server outage affecting all users - happening since yesterday,Incident,Email,P3,Email,Service Desk,2026-04-16 05:29:00,2026-04-16 16:05:00,10.6,7.4,0
+INC00097,SAP MM purchase order stuck in approval - affecting multiple users,Incident,SAP,P4,Email,SAP Support,2026-06-05 02:55:00,2026-06-09 03:25:00,96.5,0.7,1
+INC00098,SAP invoice verification blocked by price variance,Incident,SAP,P2,Email,SAP Support,2026-10-16 22:05:00,2026-10-17 02:35:00,4.5,2.2,0
+INC00099,SAP material master data needs correction - happening since yesterday,Request,SAP,P2,Phone,SAP Support,2026-09-13 02:21:00,2026-09-13 19:09:00,16.8,3.1,1
+INC00100,Urgent: email server outage affecting all users,Incident,Email,P3,Chat,Service Desk,2026-09-25 18:27:00,2026-09-25 20:57:00,2.5,2.3,0

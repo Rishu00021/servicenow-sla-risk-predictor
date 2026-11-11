@@ -1,0 +1,7 @@
+group_name,contact_email,member_count
+Network,network@example.com,5
+Hardware,hardware@example.com,6
+Service Desk,servicedesk@example.com,12
+SAP Support,sap-support@example.com,4
+Database,dba@example.com,3
+Security,security@example.com,3
