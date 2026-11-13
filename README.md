@@ -109,8 +109,9 @@ ORDER BY avg_resolution_hours DESC;
 
 ## Screenshots
 
-- `docs/breach_rate_by_priority.png` — SLA breach rate by priority
-- `docs/feature_importance.png` — top TF-IDF features driving breach risk
+![SLA breach rate by priority](docs/breach_rate_by_priority.png)
+
+![Top TF-IDF features driving breach risk](docs/feature_importance.png)
 
 ## Project structure
 
